@@ -14,7 +14,7 @@ int main() {
 	{
 	    cin >>x >>y;
 	    
-	    result = (x >= y) ? true:false;
+	    result = (x >= y) ? false:true;
 	    
 	    if(result)
 	        cout <<"No" <<endl;
